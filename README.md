@@ -1,2 +1,1 @@
-# CompForm
-#Sam Madhu
+# CompForm, Sam Madhu
